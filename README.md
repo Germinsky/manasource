@@ -1,3 +1,19 @@
+What is Mana?
+----------------
+
+Mana is a litecoin based scryptcoin.
+ - 60 minute block targets
+ - subsidy halves in 250k blocks
+ - ~500,000 total coins
+ - 1 coin per block
+ - 5 blocks to retarget difficulty
+
+For more information, as well as an immediately useable, binary version of
+the Litecoin client sofware, see http://www.litecoin.org.
+
+
+Info for Litecoin:
+
 Litecoin integration/staging tree
 ================================
 
@@ -5,21 +21,6 @@ http://www.litecoin.org
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
-
-What is Litecoin?
-----------------
-
-Litecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
-
-For more information, as well as an immediately useable, binary version of
-the Litecoin client sofware, see http://www.litecoin.org.
 
 License
 -------
