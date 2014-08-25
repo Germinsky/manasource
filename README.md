@@ -8,11 +8,12 @@ Mana is a litecoin based scryptcoin.
  - 1 coin per block
  - 5 blocks to retarget difficulty
 
+
+Info for Litecoin:
+
 For more information, as well as an immediately useable, binary version of
 the Litecoin client sofware, see http://www.litecoin.org.
 
-
-Info for Litecoin:
 
 Litecoin integration/staging tree
 ================================
